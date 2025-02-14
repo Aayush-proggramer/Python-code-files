@@ -1,0 +1,5 @@
+print("hello everyone")
+print("my name is Aayush")
+print("my age is",13)
+print("\n the sum of 3+5 is:", 3+5)
+print("Hurray",end="!!!")
