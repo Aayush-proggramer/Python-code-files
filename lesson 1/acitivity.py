@@ -1,0 +1,5 @@
+print("MY NAME IS AAYUSH")
+print("MY AGE IS 18")
+print("\n MY HOBBY IS TO PLAY CRICKET")
+print("THE SUM OF THE NUMBER: 78-8 IS:",78-8)
+print("thats it!",end=("!!"))
