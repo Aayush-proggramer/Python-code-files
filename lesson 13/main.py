@@ -1,0 +1,7 @@
+file = open("sample.txt")
+print(file.read())
+file.close()
+file_write= open('sample.text')
+file_write.write("im rn in write mode")
+file_write.write("byyeee")
+file.close()
